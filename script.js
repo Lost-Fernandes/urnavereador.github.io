@@ -132,21 +132,9 @@ function voteWhite() {
 
 let candidato = {
     antonio: {
-        name: 'ANTONIO',
-        nameComplete: 'ANTONIO PACHECO',
+        name: 'ERINILSON',
+        nameComplete: 'ERINILSON TRAJANO',
         broken: 'TICO',
         img: "url('./images/antonio.webp')",
-    },
-    fernandes: {
-        name: 'FERNANDES',
-        nameComplete: 'FERNANDES COSTA',
-        broken: 'SPB',
-        img: "url('./images/fernandes.jpg')",
-    },
-    pascoal: {
-        name: 'PASCOAL',
-        nameComplete: 'PASCOAL FERNANDES COSTA',
-        broken: 'BPDT',
-        img: "url('./images/pascoal.jpg')",
     },
 };
